@@ -16,7 +16,7 @@ export default function Home() {
           <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
             To get started, edit the page.tsx file.
           </h1>
-          <p Bienvenuesur Dentalib - Application de facturation pour prothésiste dentaires>
+          <p> Bienvenuesur Dentalib - Application de facturation pour prothésiste dentaires <p>
             Looking for a starting point or more instructions? Head over to{" "}
             <a
               href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
